@@ -5,7 +5,7 @@ const studentInfo = {
   지도교수2: "유동관",
   지도교수3: "류준상",
   평가연도: 2023,
-  평가회차: 1,
+  평가회차: 2,
 };
 
 export { studentInfo };
